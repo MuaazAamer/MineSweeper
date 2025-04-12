@@ -1,2 +1,4 @@
 # MineSweeper
-This project is a Minesweeper game built using C++ and SFML. It features multiple difficulty levels, grid generation with mines, recursive tile revealing, flag placement, and a timer. The game also includes high score tracking and a graphical interface for user interaction
+To execute Project install SFML version 2.5.1.
+Add a text file in the same directory name "highScore"
+Execute grid.cpp to run project
